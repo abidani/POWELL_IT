@@ -1,1 +1,1 @@
-select top 500 * from dbo.FileIteration
+select top 1000 * from dbo.FileIteration
