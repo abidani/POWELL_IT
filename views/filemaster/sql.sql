@@ -1,1 +1,1 @@
-select top 500 * from powell.dbo.filemaster
+select top 1000 * from powell.dbo.filemaster
